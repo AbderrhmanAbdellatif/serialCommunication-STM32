@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp
+"sicak\startup_stm32f407xx.o"
+"sicak\system_stm32f4xx.o"
+"sicak\main.o"
+"sicak\stm32f4xx_hal_msp.o"
+"sicak\stm32f4xx_it.o"
+"sicak\gpio.o"
+"sicak\adc.o"
+"sicak\stm32f4xx_hal_rcc.o"
+"sicak\stm32f4xx_hal_adc_ex.o"
+"sicak\stm32f4xx_hal_flash.o"
+"sicak\stm32f4xx_hal.o"
+"sicak\stm32f4xx_hal_tim.o"
+"sicak\stm32f4xx_hal_flash_ex.o"
+"sicak\stm32f4xx_hal_dma_ex.o"
+"sicak\stm32f4xx_hal_cortex.o"
+"sicak\stm32f4xx_hal_pwr_ex.o"
+"sicak\stm32f4xx_hal_pwr.o"
+"sicak\stm32f4xx_hal_tim_ex.o"
+"sicak\stm32f4xx_hal_adc.o"
+"sicak\stm32f4xx_hal_dma.o"
+"sicak\stm32f4xx_hal_rcc_ex.o"
+"sicak\stm32f4xx_hal_flash_ramfunc.o"
+"sicak\stm32f4xx_hal_gpio.o"
+--library_type=microlib --strict --scatter "sicak\sicak.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "sicak.map" -o sicak\sicak.axf

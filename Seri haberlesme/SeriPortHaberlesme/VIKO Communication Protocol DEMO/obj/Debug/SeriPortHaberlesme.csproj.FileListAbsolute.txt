@@ -1,0 +1,19 @@
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\bin\Debug\VIKO Communication Protocol DEMO.exe.config
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\bin\Debug\VIKO Communication Protocol DEMO.exe
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\bin\Debug\VIKO Communication Protocol DEMO.pdb
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\obj\Debug\VIKO_Communication_Protocol_DEMO.BTForm.resources
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\obj\Debug\VIKO_Communication_Protocol_DEMO.Properties.Resources.resources
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\obj\Debug\SeriPortHaberlesme.csproj.GenerateResource.cache
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\obj\Debug\SeriPortHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\obj\Debug\VIKO Communication Protocol DEMO.exe
+C:\Users\Aizen\Desktop\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\VIKO Communication Protocol DEMO\obj\Debug\VIKO Communication Protocol DEMO.pdb
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\bin\Debug\VIKO Communication Protocol DEMO.exe.config
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\bin\Debug\VIKO Communication Protocol DEMO.exe
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\bin\Debug\VIKO Communication Protocol DEMO.pdb
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\SeriPortHaberlesme.csprojAssemblyReference.cache
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\VIKO_Communication_Protocol_DEMO.BTForm.resources
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\VIKO_Communication_Protocol_DEMO.Properties.Resources.resources
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\SeriPortHaberlesme.csproj.GenerateResource.cache
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\SeriPortHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\VIKO Communication Protocol DEMO.exe
+C:\Users\MuhammedAli\Desktop\MikroProje\Seri haberlesme\SeriPortHaberlesme\VIKO Communication Protocol DEMO\obj\Debug\VIKO Communication Protocol DEMO.pdb
